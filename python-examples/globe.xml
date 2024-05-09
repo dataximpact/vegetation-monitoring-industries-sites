@@ -1,0 +1,1 @@
+<GLOBE_LAYER><extent>4096</extent><srs>+proj=longlat +datum=WGS84 +no_defs</srs><bands><band name="Temperature"><NoDataValue>-9999</NoDataValue><mask>none</mask></band></bands><raster dataType="UInt16" NODATA="-9999"><file>globe.tif</file></raster></GLOBE_LAYER>
